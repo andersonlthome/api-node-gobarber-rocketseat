@@ -1,4 +1,4 @@
-# node-gobarber-rocketseat: API em NodeJS de uma aplicação para marcar horário na barbearia
+# api-node-gobarber-rocketseat: API em NodeJS de uma aplicação para marcar horário na barbearia
 
 
 ## Tecnologias
@@ -25,7 +25,7 @@
 
 
 ## Run
- - git clone https://github.com/iarlenaquiles/gobarber-api.git
+ - git clone https://github.com/andersonlthome/api-node-gobarber-rocketseat
  - yarn
  - yarn dev
 
