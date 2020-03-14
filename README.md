@@ -25,6 +25,6 @@
 
 ## Run
  - git clone https://github.com/andersonlthome/api-node-gobarber-rocketseat
- - yarn
+ - yarn install
  - yarn dev
 
